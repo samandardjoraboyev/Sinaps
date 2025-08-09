@@ -13,7 +13,7 @@
 
 
 <script>
-import icons from '@/icon.js';
+import icons from '@/Icon.js';
 
 export default {
   props: ['name'],
