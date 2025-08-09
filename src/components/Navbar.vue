@@ -1,6 +1,11 @@
 <template>
   <nav class="flex justify-between items-center px-16 my-4">
-    <div><img src="../assets/sinaps-logo.svg" height="40" width="142" /></div>
+    <div> 
+      <router-link to="/">
+        <img src="@/assets/sinaps-logo.svg" height="40" width="142" />
+      </router-link>
+      </div>
+  
     <ul class="flex justify-center  items-center">
       <li>Loyiha haqida</li>
       <li class="mx-16">
