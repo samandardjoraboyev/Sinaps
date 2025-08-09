@@ -1,0 +1,193 @@
+[
+  {
+    "categoryId": 1,
+    "categoryName": "Huquq",
+    "items": [
+      {
+        "id": 1,
+        "title": "Huquqiy tushunchalar",
+        "description": "Huquq haqida o'znekcha ma'lumot, huquqiy tushunchalar, qonunlar va ularning qo'llanilishi haqida, shuningdek"
+      },
+      {
+        "id": 2,
+        "title": "Fuqarolik huquqi",
+        "description": "Fuqarolik huquqi, shaxsiy va mulkiy huquqlar, shartnomalar va ularning bajarilishi haqida ma'lumotlar."
+      },
+      {
+        "id": 3,
+        "title": "Jinoyat huquqi",
+        "description": "Jinoyat huquqi, jinoyatlar, jazolar va ularning qo'llanilishi haqida ma'lumotlar."
+      },
+      {
+        "id": 4,
+        "title": "Mehnat huquqi",
+        "description": "Mehnat huquqi, ishchi va ish beruvchi o'rtasidagi munosabatlar, mehnat shartnomalari haqida ma'lumotlar."
+      },
+      {
+        "id": 5,
+        "title": "Xalqaro huquq",
+        "description": "Xalqaro huquq, davlatlararo munosabatlar, xalqaro shartnomalar va ularning qo'llanilishi haqida ma'lumotlar."
+      },
+      {
+        "id": 6,
+        "title": "Konstitutsion huquq",
+        "description": "Konstitutsion huquq, davlat tuzilishi, fuqarolarning asosiy huquqlari va erkinliklari haqida ma'lumotlar."
+      }
+    ]
+  },
+  {
+    "categoryId": 2,
+    "categoryName": "Tarix",
+    "items": [
+      {
+        "id": 1,
+        "title": "Dunyo tarixi",
+        "description": "Dunyo tarixi, qadimgi tsivilizatsiyalar, urushlar va inqiloblar haqida ma'lumotlar."
+      },
+      {
+        "id": 2,
+        "title": "O'zbekiston tarixi",
+        "description": "O'zbekiston tarixi, qadimgi davrlardan to zamonaviy O'zbekiston gacha bo'lgan tarixiy jarayonlar."
+      },
+      {
+        "id": 3,
+        "title": "O'rta asrlar tarixi",
+        "description": "O'rta asrlar tarixi, feodalizm, diniy harakatlar va madaniy rivojlanish haqida ma'lumotlar."
+      },
+      {
+        "id": 4,
+        "title": "Yangi tarix",
+        "description": "Yangi tarix, sanoat inqilobi, mustamlakachilik va mustaqillik harakatlari haqida ma'lumotlar."
+      },
+      {
+        "id": 5,
+        "title": "XX asr tarixi",
+        "description": "XX asr tarixi, urushlar, siyosiy o'zgarishlar va global muammolar haqida ma'lumotlar."
+      }
+    ]
+  },
+  {
+    "categoryId": 3,
+    "categoryName": "Matematika",
+    "items": [
+      {
+        "id": 1,
+        "title": "Algebra",
+        "description": "Algebra asoslari, tenglamalar, funksiyalar va ularning qo'llanilishi haqida ma'lumotlar."
+      },
+      {
+        "id": 2,
+        "title": "Geometriya",
+        "description": "Geometriya asoslari, shakllar, o'lchovlar va ularning xususiyatlari haqida ma'lumotlar."
+      },
+      {
+        "id": 3,
+        "title": "Trigonometriya",
+        "description": "Trigonometriya asoslari, trigonometrik funksiyalar va ularning qo'llanilishi haqida ma'lumotlar."
+      },
+      {
+        "id": 4,
+        "title": "Analiz",
+        "description": "Matematik analiz, limitlar, hosilalar va integrallar haqida ma'lumotlar."
+      },
+      {
+        "id": 5,
+        "title": "Statistika",
+        "description": "Statistika asoslari, ma'lumotlarni tahlil qilish va ehtimollar nazariyasi haqida ma'lumotlar."
+      }
+    ]
+  },
+  {
+    "categoryId": 4,
+    "categoryName": "Biologiya",
+    "items": [
+      {
+        "id": 1,
+        "title": "Zoologiya",
+        "description": "Zoologiya asoslari, hayvonlar turlari, ularning xususiyatlari va yashash muhitlari haqida ma'lumotlar."
+      },
+      {
+        "id": 2,
+        "title": "Botanika",
+        "description": "Botanika asoslari, o'simliklar turlari, ularning tuzilishi va funksiyalari haqida ma'lumotlar."
+      },
+      {
+        "id": 3,
+        "title": "Ekologiya",
+        "description": "Ekologiya asoslari, ekosistemalar, biologik xilma-xillik va atrof-muhit muammolari haqida ma'lumotlar."
+      },
+      {
+        "id": 4,
+        "title": "Genetika",
+        "description": "Genetika asoslari, irsiyat, genlar va ularning o'zgarishi haqida ma'lumotlar."
+      },
+      {
+        "id": 5,
+        "title": "Mikrobiologiya",
+        "description": "Mikrobiologiya asoslari, mikroorganizmlar, ularning tuzilishi va roli haqida ma'lumotlar."
+      }
+    ]
+  },
+  {
+    "categoryId": 5,
+    "categoryName": "Ta'lim",
+    "items": [
+      {
+        "id": 1,
+        "title": "Pedagogika",
+        "description": "Pedagogika asoslari, ta'lim jarayonlari, o'qitish metodlari va pedagogik texnologiyalar haqida ma'lumotlar."
+      },
+      {
+        "id": 2,
+        "title": "Psixologiya",
+        "description": "Psixologiya asoslari, inson psixikasi, rivojlanish psixologiyasi va ta'lim psixologiyasi haqida ma'lumotlar."
+      },
+      {
+        "id": 3,
+        "title": "Didaktika",
+        "description": "Didaktika asoslari, o'qitish nazariyasi, dars rejalashtirish va baholash tizimlari haqida ma'lumotlar."
+      },
+      {
+        "id": 4,
+        "title": "Ta'lim texnologiyalari",
+        "description": "Ta'lim texnologiyalari, multimedia vositalari, onlayn ta'lim va innovatsion metodlar haqida ma'lumotlar."
+      },
+      {
+        "id": 5,
+        "title": "Maxsus ta'lim",
+        "description": "Maxsus ta'lim, nogironlar uchun ta'lim usullari va inklyuziv ta'lim haqida ma'lumotlar."
+      }
+    ]
+  },
+  {
+    "categoryId": 6,
+    "categoryName": "Fizika",
+    "items": [
+      {
+        "id": 1,
+        "title": "Klassik mexanika",
+        "description": "Klassik mexanika asoslari, harakat qonunlari, kuchlar va energiya haqida ma'lumotlar."
+      },
+      {
+        "id": 2,
+        "title": "Termodinamika",
+        "description": "Termodinamika asoslari, issiqlik o'tkazish, gaz qonunlari va energiya o'zgarishlari haqida ma'lumotlar."
+      },
+      {
+        "id": 3,
+        "title": "Elektromagnetizm",
+        "description": "Elektromagnetizm asoslari, elektr maydonlari, magnit maydonlar va ularning o'zaro ta'siri haqida ma'lumotlar."
+      },
+      {
+        "id": 4,
+        "title": "Optika",
+        "description": "Optika asoslari, yorug'lik, ko'rish jarayonlari va optik qurilmalar haqida ma'lumotlar."
+      },
+      {
+        "id": 5,
+        "title": "Kvant fizika",
+        "description": "Kvant fizika asoslari, atom tuzilishi, kvant holatlar va ularning xususiyatlari haqida ma'lumotlar."
+      }
+    ]
+  }
+]
